@@ -217,7 +217,6 @@ footer{
     list-style: none;
     margin: 0;
     padding: 0;
-    background: red;
 }
 .header .nav ul li{
     display: inline-block;
