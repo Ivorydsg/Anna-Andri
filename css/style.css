@@ -220,7 +220,8 @@ footer{
 }
 .header .nav ul li{
     display: inline-block;
-    margin: 7px;
+    margin: 10px;
+    background: red;
 }
 .header .nav ul li a{
     display: block;
@@ -231,7 +232,6 @@ footer{
     font-weight: 500;
     line-height: 35px;
     transition:color 0.5s ease;
-    margin: 5px;
 }
 
 /* mempelai */
