@@ -217,11 +217,11 @@ footer{
     list-style: none;
     margin: 0;
     padding: 0;
+    background: red;
 }
 .header .nav ul li{
     display: inline-block;
-    margin: 10px;
-    background: red;
+    margin: 7px;
 }
 .header .nav ul li a{
     display: block;
